@@ -1,0 +1,19 @@
+.Navbar{
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    width: 100vw;
+    background-color: #F55A5A;
+}
+
+.Navbar p{
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.NavbarText{
+    margin-left: 10px;
+}

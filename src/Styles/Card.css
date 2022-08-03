@@ -1,0 +1,52 @@
+.Card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cardSect1 img{
+    width: 200px;
+    height: 280px;
+    border-radius: 10px;
+    background-color: #000;
+}
+
+.cardSect2{
+    width: 65vw;
+}
+
+.cardSect2 .location{
+    display: flex;
+    flex-direction: row;
+}
+
+.cardSect2 .location .icon{
+    margin-top: 1px;
+    font-size: 18px;
+    color: #F55A5A;
+}
+
+.cardSect2 .location .countryName{
+    letter-spacing: 3px;
+}
+
+.firstRow{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: -30px;
+}
+
+.mapsLink{
+    margin-left: 30px;
+    color: rgb(138, 138, 138);
+    text-decoration: underline;
+}
+
+.title{
+    font-weight: 800;   
+}
+
+.date{
+    font-weight: bolder;
+}
