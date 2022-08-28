@@ -1,7 +1,13 @@
+hr{
+    background-color: rgb(220, 220, 220);
+}
+
 .Card{
+    margin-top: 60px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    margin-bottom: 60px;
 }
 
 .cardSect1 img{
@@ -18,6 +24,7 @@
 .cardSect2 .location{
     display: flex;
     flex-direction: row;
+    text-transform: uppercase;
 }
 
 .cardSect2 .location .icon{
@@ -38,6 +45,7 @@
 }
 
 .mapsLink{
+    cursor: pointer;
     margin-left: 30px;
     color: rgb(138, 138, 138);
     text-decoration: underline;

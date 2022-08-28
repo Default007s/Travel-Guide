@@ -8,8 +8,8 @@ export default [
             startDate : "12 Jan, 2021",
             endDate : "24 Jan, 2021"
         },
-        desciption : "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-        imageUrl : "https://unsplash.com/photos/GhvpEtG5HMs",
+        description : "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists. the single most popular tourist site in Japan, for both Japanese and foreign tourists. the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
+        imageUrl : "./Images/mountfuji.jpg",
     },
     {
         id : 2,
@@ -20,8 +20,8 @@ export default [
             startDate : "27 May, 2021",
             endDate : "8 Jun, 2021"
         },
-        desciption : "The Sydney Opera House constitutes a masterpiece of 20th century architecture. Its significance is based on its unparalleled design and construction; its exceptional engineering achievements and technological innovation and its position as a world-famous icon of architecture.",
-        imageUrl : "https://unsplash.com/photos/8Rk1DqL_Lkc",
+        description : "The Sydney Opera House constitutes a masterpiece of 20th century architecture. Its significance is based on its unparalleled design and construction; its exceptional engineering achievements and technological innovation and its position as a world-famous icon of architecture.",
+        imageUrl : "./Images/operahouse.jpg",
     },
     {
         id : 3,
@@ -32,7 +32,7 @@ export default [
             startDate : "01 Oct, 2021",
             endDate : "18 Nov, 2021"
         },
-        desciption : "The iconic Geirangerfjord is known for its spectacular waterfalls and deserted fjord farms high up on the steep cliffsides. The Geirangerfjord is considered one of the most beautiful fjords in the world, and is included on the UNESCO World Heritage list together with the Nærøyfjord.",
-        imageUrl : "https://unsplash.com/photos/MnONotG2iGE",
+        description : "The iconic Geirangerfjord is known for its spectacular waterfalls and deserted fjord farms high up on the steep cliffsides. The Geirangerfjord is considered one of the most beautiful fjords in the world, and is included on the UNESCO World Heritage list together with the Nærøyfjord.",
+        imageUrl : "./Images/norway.jpg",
     },
 ]
